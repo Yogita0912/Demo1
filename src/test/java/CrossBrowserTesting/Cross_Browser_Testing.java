@@ -59,6 +59,7 @@ public class Cross_Browser_Testing
   public void Getcookies()
   {
 	  System.out.println("Get Cookies");
+	  System.out.println("Get Cookies Updated");
   }
   
   @Test
